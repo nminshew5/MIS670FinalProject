@@ -13,7 +13,10 @@ News headlines are very important and can make a huge impact on the success of t
 
 # Outline
 * Part 1: Data Collection and Preparation
- *  <a href="https://github.com/nminshew5/MIS670FinalProject/blob/master/Minshew_N_Final_Project_Part1.ipynb" title="Debate Dataset"> Data Collection with News API </a>
+ *  <a href="https://github.com/nminshew5/MIS670FinalProject/blob/master/Minshew_N_Final_Project_Part1.ipynb" title="Data Collection with News API"> Data Collection with News API </a>
 * Part 2: Descriptive Analytics and Sentiment Analysis
- * <a href="https://github.com/nminshew5/MIS670FinalProject/blob/master/Minshew_N_Final_Project_Part1.ipynb" title="Debate Dataset"> Data Collection with News API </a>
+ * <a href="https://github.com/nminshew5/MIS670FinalProject/blob/master/Minshew_N_Final_Project_Part2_DescriptiveAnalytics%26Sentiment.ipynb" title="Descriptive Analytics & Sentiment Analysis"> Descriptive Analytics & Sentiment Analysis </a>
+  * <a href="https://cdn.rawgit.com/nminshew5/MIS670FinalProject/e2a2c1d4/MIS670FinalProject_Seniment_RNotebook.html" title="R for Sentiment Analysis">R for Sentiment Analysis</a>
 * Part 3: Topic Modeling
+ * <a href="https://github.com/nminshew5/MIS670FinalProject/blob/master/Minshew_N_Final_Project_Part3_%20TopicModeling.ipynb" title="Topic Modeling">Topic Modeling</a>
+
