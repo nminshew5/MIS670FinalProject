@@ -16,7 +16,6 @@ News headlines are very important and can make a huge impact on the success of t
   * <a href="https://github.com/nminshew5/MIS670FinalProject/blob/master/Minshew_N_Final_Project_Part1.ipynb" title="Power Point Presentation">Power Point Presentation</a>
 * Video Presentation
   * <a href="https://www.youtube.com/watch?v=nDiMaz53fy8" title="Video Presentation">Video Presentation</a>
-  * https://github.com/nminshew5/MIS670FinalProject/blob/master/An%20Analysis%20of%20News%20Headlines.pptx
 * Part 1: Data Collection and Preparation
   *  <a href="https://github.com/nminshew5/MIS670FinalProject/blob/master/Minshew_N_Final_Project_Part1.ipynb" title="Data Collection with News API"> Data Collection with News API </a>
 * Part 2: Descriptive Analytics and Sentiment Analysis
